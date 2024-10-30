@@ -5,7 +5,7 @@
 
 Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
-Link to [Presentation Video](https://www.linkedin.com/posts/naveen-s6_codebasicsresumechallenge-codebasics-codebasicsresumechallenge-activity-6977486712180527105-17Hm)
+Link to [Presentation Video](https://www.linkedin.com/feed/update/urn:li:activity:7257285078504923136/)
 
 ## Problem statement
 
