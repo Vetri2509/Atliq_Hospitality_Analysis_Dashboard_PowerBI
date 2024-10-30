@@ -37,7 +37,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Dashboard 
 
 <p align="center">
-    <img src='https://github.com/Vetri2509/Atliq_Hospitality_Analysis_Dashboard_PowerBI/blob/main/Hospitality%20Dashboard.pbix' width="600">
+    <img src='https://github.com/Vetri2509/Atliq_Hospitality_Analysis_Dashboard_PowerBI/blob/main/dashboardpng.png' width="600">
 </p>
 
 ## Revenue Analysis 
