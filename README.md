@@ -34,18 +34,23 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 </p>
 
 
-## Overall Analysis View
+## Dashboard 
 
 <p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/overall_view.png' width="600">
+    <img src='https://github.com/Vetri2509/Atliq_Hospitality_Analysis_Dashboard_PowerBI/blob/main/Hospitality%20Dashboard.pbix' width="600">
 </p>
 
-## Monthly Analysis View
+## Revenue Analysis 
 
 <p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/monthly_view.png' width="600">
+    <img src='https://github.com/Vetri2509/Atliq_Hospitality_Analysis_Dashboard_PowerBI/blob/main/Screenshot%202024-10-30%20114118.png' width="600">
 </p>
 
+## Occupancy Analysis
+
+<p align="center">
+    <img src='https://github.com/Vetri2509/Atliq_Hospitality_Analysis_Dashboard_PowerBI/blob/main/Screenshot%202024-10-30%20114139.png' height="400">
+</p>
 
 
 ## Some Important insights from the Dashboard
